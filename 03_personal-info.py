@@ -20,6 +20,7 @@ print ('Bienvenido a PRO SAK: ' + nombre_y_apellido + ' ,estas ubicado en la ciu
 '''
 devices = ['R1', 'R2', 'R3', 'S1', 'S2']
 for item in [devices]:
+    print (item)
 '''
 '''    
 #a=['comienzo', 'final']
